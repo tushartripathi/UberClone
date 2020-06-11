@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UberClone</string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <string name="back4app_app_id">GBW30zqteY7erVrjwBd1lghT5fwlkEaFdWv5uBnb</string>
+    <string name="back4app_client_key">vqCHIFUZMdzlXXBiPU16WmpHT2V3iOIDiitaudnZ</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_passenger">Map</string>
+</resources>
